@@ -1,4 +1,4 @@
-# 💍 Invitación de casamiento web
+# 💍 Invitación de casamientos personalizados web
 
 Invitación digital para bodas, hecha como proyecto de portfolio. Simula el tipo de producto que ofrecen plataformas como [noscasamos.ar](https://noscasamos.ar) o [amoinvitar.com](https://amoinvitar.com), pero construida desde cero, con código propio y publicada como demo técnica.
 
