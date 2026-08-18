@@ -65,4 +65,4 @@ Proyectos existentes del mismo rubro usados como inspiración de estructura y fe
 
 ## 📝 Estado
 
-🚧 En construcción — proyecto personal en desarrollo.
+🚧 En construcción — proyecto personal en desarrollo 2026.
